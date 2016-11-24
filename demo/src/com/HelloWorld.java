@@ -8,6 +8,7 @@ public class HelloWorld {
 		//sdfdsf
 	}
 	
+
 	private String name;
 
 	public String getName() {
@@ -18,4 +19,7 @@ public class HelloWorld {
 		this.name = name;
 	}
 	
+
+	private String code;
+
 }

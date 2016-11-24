@@ -7,5 +7,7 @@ public class test {
 		//123
 		//5345
 	}
+	
+	private String name;
 
 }
