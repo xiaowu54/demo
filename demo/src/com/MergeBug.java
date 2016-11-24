@@ -9,6 +9,9 @@ public class MergeBug {
 	private String nane;
 
 	private String code;
+	
+	piblic void test(){
+	}
 
 }
 
