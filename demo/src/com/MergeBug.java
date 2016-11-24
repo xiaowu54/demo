@@ -5,6 +5,10 @@ public class MergeBug {
 		System.out.println("testMergebug");
 	}
 	
+
 	private String nane;
+
+	private String code;
+
 }
 
