@@ -9,4 +9,6 @@ public class HelloWorld {
 	}
 	
 	private String code;
+	
+	private String name;
 }
