@@ -7,4 +7,6 @@ public class HelloWorld {
 		//445646
 		//sdfdsf
 	}
+	
+	private String code;
 }
